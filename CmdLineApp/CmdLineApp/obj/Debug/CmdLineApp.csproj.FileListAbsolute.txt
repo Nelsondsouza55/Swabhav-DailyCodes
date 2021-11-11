@@ -1,0 +1,7 @@
+C:\Users\norbert paul d'souza\source\repos\CmdLineApp\CmdLineApp\bin\Debug\CmdLineApp.exe.config
+C:\Users\norbert paul d'souza\source\repos\CmdLineApp\CmdLineApp\bin\Debug\CmdLineApp.exe
+C:\Users\norbert paul d'souza\source\repos\CmdLineApp\CmdLineApp\bin\Debug\CmdLineApp.pdb
+C:\Users\norbert paul d'souza\source\repos\CmdLineApp\CmdLineApp\obj\Debug\CmdLineApp.csproj.AssemblyReference.cache
+C:\Users\norbert paul d'souza\source\repos\CmdLineApp\CmdLineApp\obj\Debug\CmdLineApp.csproj.CoreCompileInputs.cache
+C:\Users\norbert paul d'souza\source\repos\CmdLineApp\CmdLineApp\obj\Debug\CmdLineApp.exe
+C:\Users\norbert paul d'souza\source\repos\CmdLineApp\CmdLineApp\obj\Debug\CmdLineApp.pdb
