@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleEncapsulationApp", "CircleEncapsulationApp\CircleEncapsulationApp.csproj", "{5C79BE80-5AE3-4FDB-903E-8770B770BBDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C79BE80-5AE3-4FDB-903E-8770B770BBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C79BE80-5AE3-4FDB-903E-8770B770BBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C79BE80-5AE3-4FDB-903E-8770B770BBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C79BE80-5AE3-4FDB-903E-8770B770BBDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C105188B-6D53-43D1-A229-7291067B3AE2}
+	EndGlobalSection
+EndGlobal
