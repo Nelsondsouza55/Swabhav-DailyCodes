@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleEnumApp", "RectangleEnumApp\RectangleEnumApp.csproj", "{78C335E4-D822-4CF9-AAB6-74FC3C490FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78C335E4-D822-4CF9-AAB6-74FC3C490FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C335E4-D822-4CF9-AAB6-74FC3C490FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C335E4-D822-4CF9-AAB6-74FC3C490FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C335E4-D822-4CF9-AAB6-74FC3C490FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28B693EE-26F7-48A7-ACB1-A0E7A4CF3594}
+	EndGlobalSection
+EndGlobal
