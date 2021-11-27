@@ -1,0 +1,10 @@
+C:\Users\norbert paul d'souza\source\repos\AnotherProjectApp\AnotherProjectApp\bin\Debug\AnotherProjectApp.exe.config
+C:\Users\norbert paul d'souza\source\repos\AnotherProjectApp\AnotherProjectApp\bin\Debug\AnotherProjectApp.exe
+C:\Users\norbert paul d'souza\source\repos\AnotherProjectApp\AnotherProjectApp\bin\Debug\AnotherProjectApp.pdb
+C:\Users\norbert paul d'souza\source\repos\AnotherProjectApp\AnotherProjectApp\bin\Debug\AurionProMathCalculator.dll
+C:\Users\norbert paul d'souza\source\repos\AnotherProjectApp\AnotherProjectApp\bin\Debug\AurionProMathCalculator.pdb
+C:\Users\norbert paul d'souza\source\repos\AnotherProjectApp\AnotherProjectApp\obj\Debug\AnotherProjectApp.csproj.AssemblyReference.cache
+C:\Users\norbert paul d'souza\source\repos\AnotherProjectApp\AnotherProjectApp\obj\Debug\AnotherProjectApp.csproj.CoreCompileInputs.cache
+C:\Users\norbert paul d'souza\source\repos\AnotherProjectApp\AnotherProjectApp\obj\Debug\AnotherProjectApp.csproj.CopyComplete
+C:\Users\norbert paul d'souza\source\repos\AnotherProjectApp\AnotherProjectApp\obj\Debug\AnotherProjectApp.exe
+C:\Users\norbert paul d'souza\source\repos\AnotherProjectApp\AnotherProjectApp\obj\Debug\AnotherProjectApp.pdb
