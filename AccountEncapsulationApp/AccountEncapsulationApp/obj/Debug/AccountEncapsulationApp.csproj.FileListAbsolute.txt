@@ -1,0 +1,7 @@
+C:\Users\norbert paul d'souza\source\repos\AccountEncapsulationApp\AccountEncapsulationApp\bin\Debug\AccountEncapsulationApp.exe.config
+C:\Users\norbert paul d'souza\source\repos\AccountEncapsulationApp\AccountEncapsulationApp\bin\Debug\AccountEncapsulationApp.exe
+C:\Users\norbert paul d'souza\source\repos\AccountEncapsulationApp\AccountEncapsulationApp\bin\Debug\AccountEncapsulationApp.pdb
+C:\Users\norbert paul d'souza\source\repos\AccountEncapsulationApp\AccountEncapsulationApp\obj\Debug\AccountEncapsulationApp.csproj.AssemblyReference.cache
+C:\Users\norbert paul d'souza\source\repos\AccountEncapsulationApp\AccountEncapsulationApp\obj\Debug\AccountEncapsulationApp.csproj.CoreCompileInputs.cache
+C:\Users\norbert paul d'souza\source\repos\AccountEncapsulationApp\AccountEncapsulationApp\obj\Debug\AccountEncapsulationApp.exe
+C:\Users\norbert paul d'souza\source\repos\AccountEncapsulationApp\AccountEncapsulationApp\obj\Debug\AccountEncapsulationApp.pdb
