@@ -1,0 +1,7 @@
+C:\Users\norbert paul d'souza\source\repos\RectangleAbstractionApp\RectangleAbstractionApp\bin\Debug\RectangleAbstractionApp.exe.config
+C:\Users\norbert paul d'souza\source\repos\RectangleAbstractionApp\RectangleAbstractionApp\bin\Debug\RectangleAbstractionApp.exe
+C:\Users\norbert paul d'souza\source\repos\RectangleAbstractionApp\RectangleAbstractionApp\bin\Debug\RectangleAbstractionApp.pdb
+C:\Users\norbert paul d'souza\source\repos\RectangleAbstractionApp\RectangleAbstractionApp\obj\Debug\RectangleAbstractionApp.csproj.AssemblyReference.cache
+C:\Users\norbert paul d'souza\source\repos\RectangleAbstractionApp\RectangleAbstractionApp\obj\Debug\RectangleAbstractionApp.csproj.CoreCompileInputs.cache
+C:\Users\norbert paul d'souza\source\repos\RectangleAbstractionApp\RectangleAbstractionApp\obj\Debug\RectangleAbstractionApp.exe
+C:\Users\norbert paul d'souza\source\repos\RectangleAbstractionApp\RectangleAbstractionApp\obj\Debug\RectangleAbstractionApp.pdb
